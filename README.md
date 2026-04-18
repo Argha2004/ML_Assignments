@@ -27,21 +27,65 @@ Each assignment includes:
 ```
 ML-Assignments/
 │
-├── Assignment-1/
-│   ├── dataset/
+├── Question_1(a)/
+│   ├── Question/
 │   ├── code/
 │   └── output/
 │
-├── Assignment-2/
-│   ├── dataset/
+├── Question_1(b)/
+│   ├── Question/
 │   ├── code/
 │   └── output/
 │
-├── Assignment-3/
-│   ├── dataset/
+├── Question_2/
+│   ├── Question/
 │   ├── code/
 │   └── output/
 │
+├── Question_3/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_4/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_5/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_6/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_7/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_8/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_9/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_10/
+│   ├── Question/
+│   ├── code/
+│   └── output/
+│
+├── Question_13/
+│   ├── Question/
+│   ├── code/
+│   └── output/
 ├── requirements.txt
 └── README.md
 ```
